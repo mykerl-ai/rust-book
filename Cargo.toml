@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["Basics/branches", "Basics/enums","Basics/functions","Basics/guessing_game", "Basics/homework/fibonacci", "Basics/homework/temperature_converter", "Basics/modules", "Basics/string_slice", "Basics/structs", "Basics/types_project", "Basics/variables"]
